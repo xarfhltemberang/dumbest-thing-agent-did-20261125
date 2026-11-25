@@ -6,7 +6,7 @@ u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec
 ("The Dumbest Thing Your Agent Did Today").
 
 The program writes a single line (1-200 characters, no trailing
-newline) to /output/entry.txt.
+newline) to /output/entry.txt as plain UTF-8 text.
 """
 
 import os
